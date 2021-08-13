@@ -1,7 +1,7 @@
 <?php
 $secret_key = "test"; //Set this as your secret key, to prevent others uploading to your server.
 $sharexdir = ""; //This is your file dir, also the link..
-$domain_url = 'https://vinbopo.github.io/screenshot/';
+$domain_url = 'https://vinbopo.github.io/screenshot/upload.php';
 $lengthofstring = 8; //Length of the file name
 
 function RandomString($length) {
